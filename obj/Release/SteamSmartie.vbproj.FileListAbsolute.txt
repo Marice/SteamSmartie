@@ -1,0 +1,7 @@
+C:\Users\Marice\Documents\GitHub\SteamSmartie\bin\SteamSmartie.dll
+C:\Users\Marice\Documents\GitHub\SteamSmartie\bin\SteamSmartie.xml
+C:\Users\Marice\Documents\GitHub\SteamSmartie\bin\Newtonsoft.Json.dll
+C:\Users\Marice\Documents\GitHub\SteamSmartie\bin\Newtonsoft.Json.xml
+C:\Users\Marice\Documents\GitHub\SteamSmartie\obj\Release\SteamSmartie.vbprojResolveAssemblyReference.cache
+C:\Users\Marice\Documents\GitHub\SteamSmartie\obj\Release\SteamSmartie.dll
+C:\Users\Marice\Documents\GitHub\SteamSmartie\obj\Release\SteamSmartie.xml
